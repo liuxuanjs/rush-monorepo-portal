@@ -473,5 +473,9 @@
     //   "reviewCategory": "tools",
     //   "tags": ["tools"]
     // }
+    {
+      "packageName": "@rush-monorepo/eslint-config",
+      "projectFolder": "tools/eslint-config"
+    }
   ]
 }
