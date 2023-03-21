@@ -476,6 +476,10 @@
     {
       "packageName": "@rush-monorepo/eslint-config",
       "projectFolder": "tools/eslint-config"
+    },
+    {
+      "packageName": "@rush-monorepo/prettier-config",
+      "projectFolder": "tools/prettier-config"
     }
   ]
 }
